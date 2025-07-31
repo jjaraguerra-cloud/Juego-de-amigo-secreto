@@ -17,16 +17,15 @@
 
 - **[Descripción del proyecto](#descripción-del-proyecto)**
 - **[Estado del proyecto](#Estado-del-proyecto)**
-- **[Funcionalidades](#Funcionalidades)**
+- **[Funcionalidades del proyecto](#Funcionalidades-del-proyecto)**
 - **[Acceso al proyecto](#acceso-proyecto)**
-- **[Tecnologías utilizadas](#tecnologías-utilizadas)**
-- **[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)**
+- **[Personas desarrolladores del proyecto](#personas-desarrolladores)**
 - **[Licencia](#licencia)**
 - **[Conclusión](#conclusión)**
 
-## :hammer:Descripción del proyecto
+## :memo:Descripción del proyecto
 
-## :Current Status:Estado del proyecto
+## :rocket:Estado del proyecto
 ![Estado](https://img.shields.io/badge/estado-Despliegue-green)
 ![Versión](https://img.shields.io/badge/versión-1.0.0-blue)
 ![Deploy](https://img.shields.io/badge/deploy-en%20progreso-orange)
@@ -36,3 +35,7 @@
 - `Validar entrada`: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
 - `Visualizar la lista`: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 - `Sorteo aleatorio`: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+
+## :gear:Acceso al proyecto
+
+## :technologist:Personas desarrolladores del proyecto
