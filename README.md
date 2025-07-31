@@ -24,5 +24,5 @@
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 *[Personas Contribuyentes](#personas-contribuyentes)
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-* [Licencia](#licencia)
+*[Licencia](#licencia)
 *[Conclusión](#conclusión)
