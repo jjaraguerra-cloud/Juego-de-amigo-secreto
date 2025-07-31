@@ -26,7 +26,7 @@
 
 ## :hammer:Descripción del proyecto
 
-## :despliegue:Estado del proyecto
+## :Current Status:Estado del proyecto
 ![Estado](https://img.shields.io/badge/estado-Despliegue-green)
 ![Versión](https://img.shields.io/badge/versión-1.0.0-blue)
 ![Deploy](https://img.shields.io/badge/deploy-en%20progreso-orange)
