@@ -17,14 +17,20 @@
 
 - **[Descripción del proyecto](#descripción-del-proyecto)**
 - **[Estado del proyecto](#Estado-del-proyecto)**
-- **[Funcionalidades](#Funcionalidades)
+- **[Funcionalidades](#Funcionalidades)**
 - **[Acceso al proyecto](#acceso-proyecto)**
 - **[Tecnologías utilizadas](#tecnologías-utilizadas)**
 - **[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)**
 - **[Licencia](#licencia)**
 - **[Conclusión](#conclusión)**
 
+## :hammer:Descripción del proyecto
 
+## :hammer:Estado del proyecto
+:test_tube: Proyecto en fase de :test_tube:
+![Estado](https://img.shields.io/badge/estado-Despliegue-green)
+![Versión](https://img.shields.io/badge/versión-1.0.0-blue)
+![Deploy](https://img.shields.io/badge/deploy-en%20progreso-orange)
 
 ## :hammer:Funcionalidades del proyecto
 - `Agregar nombres`: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
