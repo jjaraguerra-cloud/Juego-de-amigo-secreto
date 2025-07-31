@@ -10,7 +10,7 @@
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-DESPLIEGUE-green">
-  <img src="https://img.shields.io/github/stars/camilafernanda?style=social">
+  <img src="https://img.shields.io/github/stars/JOELJARA?style=social">
 </p>
 
 ## Índice
