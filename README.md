@@ -27,7 +27,6 @@
 ## :hammer:Descripción del proyecto
 
 ## :hammer:Estado del proyecto
-:test_tube: Proyecto en fase de :test_tube:
 ![Estado](https://img.shields.io/badge/estado-Despliegue-green)
 ![Versión](https://img.shields.io/badge/versión-1.0.0-blue)
 ![Deploy](https://img.shields.io/badge/deploy-en%20progreso-orange)
