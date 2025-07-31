@@ -28,7 +28,7 @@
 ## :rocket:Estado del proyecto
 ![Estado](https://img.shields.io/badge/estado-Despliegue-green)
 ![Versión](https://img.shields.io/badge/versión-1.0.0-blue)
-![Deploy](https://img.shields.io/badge/deploy-en%20progreso-orange)
+![Deploy](https://img.shields.io/badge/deploy-en%100progreso-orange)
 
 ## :hammer:Funcionalidades del proyecto
 - `Agregar nombres`: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
