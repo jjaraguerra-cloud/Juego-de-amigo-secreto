@@ -10,7 +10,7 @@
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-  ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+  <img src=https://img.shields.io/github/stars/camilafernanda?style=social">
 
   <a href="CONTRIBUTING.md#pull-requests"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
   <a href="https://discord.gg/docusaurus"><img src="https://img.shields.io/discord/102860784329052160.svg" align="right" alt="Discord Chat" /></a>
