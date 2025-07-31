@@ -14,7 +14,8 @@
 </p>
 
 ##Índice
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
+
+- **[Título e imagen de portada](#Título-e-imagen-de-portada)**
 *[Insignias](#insignias)
 *[Índice](#índice)
 *[Descripción del proyecto](#descripción-del-proyecto)
