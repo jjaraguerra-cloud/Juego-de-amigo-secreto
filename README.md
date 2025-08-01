@@ -55,7 +55,7 @@ Los usuarios pueden:
 
 ## :gear: Acceso al proyecto
 Puedes acceder al proyecto haciendo clic en el siguiente enlace:
-:globe_with_meridians: [Ver proyecto desplegado](http://127.0.0.1:5500/index.html)
+- :globe_with_meridians: [Ver proyecto desplegado](http://127.0.0.1:5500/index.html)
 
 
 ## :bust_in_silhouette: Equipo del proyecto
