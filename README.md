@@ -38,7 +38,7 @@ Los usuarios pueden:
 ![Estado](https://img.shields.io/badge/estado-Despliegue-green)
 ![Versión](https://img.shields.io/badge/versión-1.0.0-blue)
 ![Deploy](https://img.shields.io/badge/deploy-en%100progreso-orange)
-![Deploy](https://img.shields.io/badge/deploy-en%90progreso-orange)
+![Deploy](https://img.shields.io/badge/deploy-en%20progreso-orange)
 
 
 ## :hammer: Funcionalidades del proyecto
