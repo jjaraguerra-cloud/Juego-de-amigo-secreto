@@ -3,8 +3,8 @@
     Amigo Secreto
     <br />
     <br />
-    <a href="http://127.0.0.1:5500/index.html">
-      <img src="http://127.0.0.1:5500/index.html/assets/amigo-secreto.png" alt="Amigo Secreto">
+    <a href="https://github.com/jjaraguerra-cloud/Juego-de-amigo-secreto">
+      <img src="https://github.com/jjaraguerra-cloud/Juego-de-amigo-secreto/blob/main/assets/amigo-secreto.png" alt="Amigo Secreto">
     </a>
   </h1>
 </div>
