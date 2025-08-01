@@ -51,3 +51,9 @@ Los usuarios pueden:
 ## :gear:Acceso al proyecto
 
 ## :technologist:Personas desarrolladores del proyecto
+- [x] Add names  
+- [x] Input validation  
+- [x] Random drawing  
+- [x] Game reset  
+- [ ] Mobile responsiveness  
+- [ ] Local storage implementation
