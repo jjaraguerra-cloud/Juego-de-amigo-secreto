@@ -49,10 +49,10 @@ Los usuarios pueden:
 - CSS3
 - JavaScript
 
-## :gear:Acceso al proyecto
+## :gear: Acceso al proyecto
 
 ## :technologist:Personas desarrolladores del proyecto
 
-:clock3: Última actualización: **Julio 2025**
+:calendar: Última actualización: **Julio 2025**
 
 
