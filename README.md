@@ -37,7 +37,6 @@ Los usuarios pueden:
 ## :rocket: Estado del proyecto
 ![Estado](https://img.shields.io/badge/estado-Despliegue-green)
 ![Versión](https://img.shields.io/badge/versión-1.0.0-blue)
-![Deploy](https://img.shields.io/badge/deploy-en%100progreso-orange)
 ![Deploy](https://img.shields.io/badge/deploy-en%20progreso-orange)
 
 
@@ -55,7 +54,8 @@ Los usuarios pueden:
 
 
 ## :gear: Acceso al proyecto
-
+Puedes acceder al proyecto haciendo clic en el siguiente enlace:
+:globe_with_meridians: [Ver proyecto desplegado](http://127.0.0.1:5500/index.html)
 
 
 ## :bust_in_silhouette: Equipo del proyecto
