@@ -32,35 +32,30 @@ Los usuarios pueden:
 - Realizar el sorteo de manera aleatoria
 - Reiniciar el registro de los nombres
 
-
 ## :rocket: 2. Estado del proyecto
 ![Estado](https://img.shields.io/badge/estado-Despliegue-green)
 ![Versión](https://img.shields.io/badge/versión-1.0.0-blue)
 ![Deploy](https://img.shields.io/badge/deploy-en%20progreso-orange)
 
-
 ## :hammer: 3. Funcionalidades del proyecto
 :white_check_mark: `Agregar nombres`: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
 
- :white_check_mark: `Validar entrada`: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
- :white_check_mark: `Visualizar la lista`: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
- :white_check_mark: `Sorteo aleatorio`: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+:white_check_mark: `Validar entrada`: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
 
+:white_check_mark: `Visualizar la lista`: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
+
+:white_check_mark: `Sorteo aleatorio`: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
 ## :gear: 4. Tecnologías utilizadas
 - HTML5
 - CSS3
 - JavaScript
 
-
 ## :gear: 5. Acceso al proyecto
 Puedes acceder al proyecto haciendo clic en el siguiente enlace:
 - :globe_with_meridians: [Ver proyecto desplegado](http://127.0.0.1:5500/index.html)
-
 
 ## :bust_in_silhouette: 6. Equipo del proyecto
  - :technologist: Joel Jara – Desarrollador principal
 
 :calendar: Última actualización: **Julio 2025**
-
-
