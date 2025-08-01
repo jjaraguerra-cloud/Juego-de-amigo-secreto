@@ -53,6 +53,6 @@ Los usuarios pueden:
 
 ## :technologist:Personas desarrolladores del proyecto
 
-📅 Última actualización: **Julio 2025**
+:clock3: Última actualización: **Julio 2025**
 
 
