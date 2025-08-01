@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-    Amigo Secreto
+    Proyecto Challenge: Aplicación WEB - Amigo Secreto
     <br />
     <br />
     <a href="https://github.com/jjaraguerra-cloud/Juego-de-amigo-secreto">
