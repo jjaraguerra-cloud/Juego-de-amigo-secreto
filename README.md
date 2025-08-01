@@ -38,10 +38,10 @@ Los usuarios pueden:
 ![Deploy](https://img.shields.io/badge/deploy-en%100progreso-orange)
 
 ## :hammer:Funcionalidades del proyecto
-- `Agregar nombres`: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
-- `Validar entrada`: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
-- `Visualizar la lista`: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
-- `Sorteo aleatorio`: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+- [x] `Agregar nombres`: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
+- [x]`Validar entrada`: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
+- [x]`Visualizar la lista`: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
+- [x]`Sorteo aleatorio`: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
 ## :gear:Tecnologías utilizadas
 - HTML5
@@ -51,9 +51,5 @@ Los usuarios pueden:
 ## :gear:Acceso al proyecto
 
 ## :technologist:Personas desarrolladores del proyecto
-- [x] Add names  
-- [x] Input validation  
-- [x] Random drawing  
-- [x] Game reset  
-- [ ] Mobile responsiveness  
-- [ ] Local storage implementation
+
+
