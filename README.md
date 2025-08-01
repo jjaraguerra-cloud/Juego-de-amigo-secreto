@@ -16,8 +16,8 @@
 ## Índice
 
 1. **[1. Descripción del proyecto](#descripción-del-proyecto)**
- **[2. Estado del proyecto](#Estado-del-proyecto)**
- **[3. Funcionalidades del proyecto](#Funcionalidades-del-proyecto)**
+2. **[2. Estado del proyecto](#Estado-del-proyecto)**
+3. **[3. Funcionalidades del proyecto](#Funcionalidades-del-proyecto)**
  **[4. Tecnologías utilizadas](#Tecnologías-utilizadas)**
  **[5. Acceso al proyecto](#acceso-proyecto)**
  **[6. Equipo del proyecto](#Equipo-del-proyecto)**
