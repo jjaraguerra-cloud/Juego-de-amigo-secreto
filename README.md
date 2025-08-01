@@ -20,7 +20,7 @@
 3. **[Funcionalidades del proyecto](#Funcionalidades-del-proyecto)**
 4. **[Tecnologías utilizadas](#Tecnologías-utilizadas)**
 5. **[Acceso al proyecto](#acceso-proyecto)**
-6. **[Equipo del proyecto](#6. Equipo-del-proyecto)**
+6. **[Equipo del proyecto](#6.Equipo-del-proyecto)**
 
 ## :memo: 1.Descripción del proyecto
 
