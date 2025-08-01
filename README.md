@@ -56,6 +56,6 @@ Puedes acceder al proyecto haciendo clic en el siguiente enlace:
 - :globe_with_meridians: [Ver proyecto desplegado](http://127.0.0.1:5500/index.html)
 
 ## :bust_in_silhouette: 6. Equipo del proyecto
- - :technologist: Joel Jara – Desarrollador principal
+- :technologist: Joel Jara – Desarrollador principal
 
 :calendar: Última actualización: **Julio 2025**
