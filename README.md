@@ -15,15 +15,14 @@
 
 ## Índice
 
-1. **[Descripción del proyecto](#1.descripción-del-proyecto)**
+1. **[Descripción del proyecto](#descripción-del-proyecto)**
 2. **[Estado del proyecto](#Estado-del-proyecto)**
 3. **[Funcionalidades del proyecto](#Funcionalidades-del-proyecto)**
 4. **[Tecnologías utilizadas](#Tecnologías-utilizadas)**
 5. **[Acceso al proyecto](#acceso-proyecto)**
 6. **[Equipo del proyecto](#Equipo-del-proyecto)**
 
-
-## :memo: 1. Descripción del proyecto
+## :memo: 1.Descripción del proyecto
 
 El proyecto desarrollado es una aplicación web que permite ingresar nombres de amigos y realizar un sorteo aleatorio para asignar el "amigo secreto".
 
